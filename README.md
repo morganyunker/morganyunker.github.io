@@ -13,8 +13,7 @@ a second line
 2. dog
 3. snake
 
-[fdsfdf](www.cnn.com)
+[CNN](http://www.cnn.com)
 
-![foo](/url "title")
 [](https://upload.wikimedia.org/wikipedia/commons/5/56/Tiger.50.jpg)
 ![this is an animal](https://en.wikipedia.org/wiki/Tabby_cat#/media/File:Cat_November_2010-1a.jpg)
