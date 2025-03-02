@@ -15,4 +15,6 @@ a second line
 
 [fdsfdf](www.cnn.com)
 
+![foo](/url "title")
+[](https://upload.wikimedia.org/wikipedia/commons/5/56/Tiger.50.jpg)
 ![this is an animal](https://en.wikipedia.org/wiki/Tabby_cat#/media/File:Cat_November_2010-1a.jpg)
